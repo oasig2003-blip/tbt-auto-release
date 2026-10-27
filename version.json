@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/oasig2003-blip/tbt-auto-release/releases/download/v1.0.2/Otori_Setup_v1.0.2.exe",
-  "notes": "목록에서 잘못 올린 사진 삭제 기능 (선택 후 Delete 키 · 오른쪽 클릭 · [선택 삭제] 단추)",
-  "sig": "cdeaeyH5UXPD91-UrzCa64XNJdo85k0RSimf6gd6cT_hVtChagn3q_7u3Go0sJsmv_-kRE-FkiJbMQuReO25Bg",
-  "sha256": "26442478b389d2802d82f7901d009752f2f078cea907ab94d4a8497d73f14cb1",
-  "sig2": "8JXUjr_-0Em4WFY7OPyLWOnsJhTK-C9peNMmpdab1oD1GMgFyBckL5V1XbNg5w2n03U0KWK9VQkP5kfSRWelCg"
+  "version": "1.0.3",
+  "url": "https://github.com/oasig2003-blip/tbt-auto-release/releases/download/v1.0.3/Otori_Setup_v1.0.3.exe",
+  "notes": "폴더 감시를 시작할 때 감시 폴더를 바꿀 수 있습니다",
+  "sig": "X99Y9lQfpQyIgCuQWHTY8xm0DCGxzvgNLtAkcOeJCuxmGELVe7AYkzGp4xvA0m04CUJO-yVdy3EoJ3jsqoNQAg",
+  "sha256": "1e220a56db11bbde69079b785c519a58e458a2a77bf0cb3c103266e54bcfcd44",
+  "sig2": "zYptETSi5qUTG42B8IJDHtD8-kpxN1dE7nGRCKrpPt4uCFmUG5M0SIyOA-O1cdvN88RMlPGQS9nRS46fIF4fBQ"
 }
