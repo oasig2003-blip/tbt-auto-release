@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/oasig2003-blip/tbt-auto-release/releases/download/v1.0.3/Otori_Setup_v1.0.3.exe",
-  "notes": "폴더 감시를 시작할 때 감시 폴더를 바꿀 수 있습니다",
-  "sig": "X99Y9lQfpQyIgCuQWHTY8xm0DCGxzvgNLtAkcOeJCuxmGELVe7AYkzGp4xvA0m04CUJO-yVdy3EoJ3jsqoNQAg",
-  "sha256": "1e220a56db11bbde69079b785c519a58e458a2a77bf0cb3c103266e54bcfcd44",
-  "sig2": "zYptETSi5qUTG42B8IJDHtD8-kpxN1dE7nGRCKrpPt4uCFmUG5M0SIyOA-O1cdvN88RMlPGQS9nRS46fIF4fBQ"
+  "version": "1.0.4",
+  "url": "https://github.com/oasig2003-blip/tbt-auto-release/releases/download/v1.0.4/Otori_Setup_v1.0.4.exe",
+  "notes": "로그인 실패 시 사이트 안내 메시지 표시 · 다른 곳 접속 중 확인창 자동 처리",
+  "sig": "BvgrNQ-sbTXpFvWvXE8PxXK2jn0n7AXdPg0N5OmVBtj52KK6TafkODgFRNHPgf8nEgRB8YEbExZNAGfoLBOGDQ",
+  "sha256": "99381a27626a45a6ee8de25296183a5b84abd9f356707cc7eef6c8f25d0a90bf",
+  "sig2": "y_FJfXVTZq4mLzAq4XnXss-GcOeo3CjSuxfE2CKfP-O99_wkewdNhbHjfrYSpE_Of_D5BEIC9evF3lInQ1H3AQ"
 }
