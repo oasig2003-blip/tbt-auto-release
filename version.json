@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/oasig2003-blip/tbt-auto-release/releases/download/v1.0.6/Otori_Setup_v1.0.6.exe",
-  "notes": "자동 업데이트 다운로드 오류(인증서) 해결",
-  "sig": "hlVrYW7-FohnmmN1EsoVXn8nMk9K6aHyHHz13lLAoaB2ivdGiiW4zWBOPRbTZyk_Q_M9Jqvrxe0dTVW1T9QFCQ",
-  "sha256": "118892ee49877ded63eac5d83c94bb42c595e66bbcc1e460a81bdfc8d0b6b4d1",
-  "sig2": "7EYmh6lB7Ekjn0dO5UN5mSiD4wwByncMWZ4GA8AJ0zDfg3WOjYkby05ygRHQvSQBBvSSqIsKbMQJKUe1n4HcCQ"
+  "version": "1.0.7",
+  "url": "https://github.com/oasig2003-blip/tbt-auto-release/releases/download/v1.0.7/Otori_Setup_v1.0.7.exe",
+  "notes": "화면 색 새 단장 (남색 상단·노란 등록 시작 단추·결과 색 진하게)",
+  "sig": "UF2-lhI8pS4CqW0RfJFFuNH-2RK7GRuRYgA6hM33pMCEyQpbLuiSeOwIvSJkbd8xa5UDAw_6O8yH8uQa9fuwAA",
+  "sha256": "05642a49c6fef0d2a49c01543a5db4b385ec0ea840db0e225773aed2bbf15405",
+  "sig2": "pR3tBMrzW-DlPNeRQJrJeKIuRyTFnV6zxmpAJsBIuWvrwqUpl0Jz5ZIfoEUl-1q1PvxSfH6ZaHOksSt73G00DA"
 }
